@@ -1,5 +1,7 @@
 # mac-changer
-This is a Linux based simple python script to change the device MAC address instantly
+OVERVIEW:
+
+This is a Linux based simple python script to change the device MAC address instantly.This tool will allow to change your device MAC address to any MAC address you want. 
 
 USAGE:
 Redirect to the file folder and run the folowing command:
